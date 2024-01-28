@@ -20,6 +20,8 @@ html{
 
 p{
     color: rgb(85,85,85);
+    text-align: left;
+    margin-bottom: 10px;
 }
 
 /* transition */
@@ -322,6 +324,10 @@ section{
     margin: auto 0;
 }
 
+.text-about{
+    text-align: center;
+}
+
 /* experience */
 
 #experience{
@@ -388,6 +394,7 @@ article .icon{
     color: black;
     border-color: rgb(163, 163, 163);
   }
+
   
   /* CONTACT */
   
